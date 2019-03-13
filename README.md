@@ -25,6 +25,11 @@ https://dragos.com/blog/industry-news/programmable-logic-controller-virtualizati
 
 A detailed look at the benefits of switching from physical OT to digital, virtualized OT. Backed up by research papers.
 
+#### 5. ALC (App Logic Controller) 
+https://www.linkedin.com/pulse/first-app-logic-controller-alc-prototype-here-maarten-ectors
+
+An interesting concept for a Raspberry Pi powered PLC that can be programmed and controlled using mobile applications. Probably not going to be seen in big industrial applications anytime soon, but potential for other things (smart home?)
+
 
 
 
