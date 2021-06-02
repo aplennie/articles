@@ -30,6 +30,10 @@ https://www.linkedin.com/pulse/first-app-logic-controller-alc-prototype-here-maa
 
 An interesting concept for a Raspberry Pi powered PLC that can be programmed and controlled using mobile applications. Probably not going to be seen in big industrial applications anytime soon, but potential for other things (smart home?)
 
+#### 6. Empty States – The Most Overlooked Aspect of UX
+https://www.toptal.com/designers/ux/empty-state-ux-design
+  
+Always something to keep in mind! When there's an empty state, make users feel rewarded (i.e. you read all your emails, go eat a cookie) or provide them with some information/course of action!
 
 
 
